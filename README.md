@@ -1,6 +1,9 @@
 XGBoost Salary Prediction Project
+
+
 Overview
 This project analyzes a synthetic dataset of employee attributes (Age, Qualification, Salary) and develops an Extreme Gradient Boosting (XGBoost) model to predict salaries based on Age and Qualification. The dataset is augmented to 100 samples to ensure robust model training and evaluation.
+
 Dataset
 The dataset is synthetically generated with the following features:
 
